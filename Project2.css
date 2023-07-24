@@ -45,13 +45,12 @@ body{
     z-index: -1;
 }
 #home{
-    width: 450px;
+    width: 397px;
     /* border: 2px solid red; */
     text-align: center;
     position: absolute;
-    right: 10px;
-    top: 0px;
-    top: 330px;
+    right: 15px;
+    top: 250px;
     font-family: 'Martian Mono', monospace;
 }
 .heading{
